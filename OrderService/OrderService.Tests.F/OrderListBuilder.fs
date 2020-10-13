@@ -9,3 +9,9 @@ let withStatusInProgress (orders : ResizeArray<Order>) =
     let order = orders |> Seq.last
     order.StartProcessing()
     orders
+
+let withStatusCancelled (orders : ResizeArray<Order>) = 
+    let order = orders |> Seq.last
+    order.Cancel()
+    orders
+    

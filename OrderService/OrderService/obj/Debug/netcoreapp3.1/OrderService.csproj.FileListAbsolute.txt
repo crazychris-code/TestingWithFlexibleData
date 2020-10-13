@@ -7,3 +7,12 @@ C:\Test\Learning F#\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderServi
 C:\Test\Learning F#\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.dll
 C:\Test\Learning F#\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.pdb
 C:\Test\Learning F#\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.csprojAssemblyReference.cache
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\bin\Debug\netcoreapp3.1\OrderService.deps.json
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\bin\Debug\netcoreapp3.1\OrderService.dll
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\bin\Debug\netcoreapp3.1\OrderService.pdb
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.csprojAssemblyReference.cache
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.AssemblyInfoInputs.cache
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.AssemblyInfo.cs
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.csproj.CoreCompileInputs.cache
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.dll
+C:\Test\Learning F#\TestingWithFlexibleData\OrderService\OrderService\obj\Debug\netcoreapp3.1\OrderService.pdb

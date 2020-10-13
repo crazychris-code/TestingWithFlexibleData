@@ -8,5 +8,9 @@ let withStatusInProgress (order : Order) =
     order.StartProcessing()
     order
 
-let build (order : Order ) = 
+let withStatusCancelled (order : Order) = 
+    order.Cancel()
+    order
+
+let toList (order : Order ) = 
     [order]

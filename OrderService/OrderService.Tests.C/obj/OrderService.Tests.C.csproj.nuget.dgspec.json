@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Test\\Learning F#\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj": {}
+    "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj": {}
   },
   "projects": {
-    "C:\\Test\\Learning F#\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj": {
+    "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Learning F#\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj",
+        "projectUniqueName": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj",
         "projectName": "OrderService.Tests.C",
-        "projectPath": "C:\\Test\\Learning F#\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj",
+        "projectPath": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService.Tests.C\\OrderService.Tests.C.csproj",
         "packagesPath": "C:\\Users\\Christina\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Learning F#\\OrderService\\OrderService.Tests.C\\obj\\",
+        "outputPath": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService.Tests.C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Test\\Learning F#\\OrderService\\OrderService\\OrderService.csproj": {
-                "projectPath": "C:\\Test\\Learning F#\\OrderService\\OrderService\\OrderService.csproj"
+              "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\OrderService.csproj": {
+                "projectPath": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\OrderService.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Test\\Learning F#\\OrderService\\OrderService\\OrderService.csproj": {
+    "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Learning F#\\OrderService\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Test\\Learning F#\\OrderService\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\Christina\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Learning F#\\OrderService\\OrderService\\obj\\",
+        "outputPath": "C:\\Test\\Learning F#\\TestingWithFlexibleData\\OrderService\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

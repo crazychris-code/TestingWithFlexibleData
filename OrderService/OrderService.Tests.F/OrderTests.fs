@@ -39,7 +39,7 @@ let ``Cancel order (composition test)`` () =
 
 
 
-// Trying to find the best way build a list of orders
+// Trying to find the shortest and cleanest way to build a list of orders
 
 [<Fact>]
 let ``Setup with multiple orders with composition, declare functions`` () =
